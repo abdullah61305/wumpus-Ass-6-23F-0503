@@ -2,10 +2,6 @@
 
 A web-based Knowledge-Based Agent that navigates the Wumpus World using Propositional Logic and Resolution Refutation. 
 
-## Links
-- **Live Deployment (Vercel):** [Insert your Vercel Link here]
-- **LinkedIn Demo Post:** [Insert your LinkedIn Video Link here]
-
 ## Features
 - **Dynamic Grid:** Configurable matrix sizing with randomized hazard placement.
 - **Inference Engine:** Converts percepts (`Breeze`, `Stench`) into Conjunctive Normal Form (CNF) rules.
